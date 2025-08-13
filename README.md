@@ -88,12 +88,5 @@ The program reads temperature data from a DHT sensor connected to pin 2 and cont
 ***
 
 
-https://github.com/user-attachments/assets/107cb09b-b782-49db-be68-e22c2db329e3
-
-
-This video demonstrates the working of the project i have done my own 
-  The blinking of led is meant for surpaassing overheat range 
-  The other led is toggled acts as the heater. 
-
 
 
